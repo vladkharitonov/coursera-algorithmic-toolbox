@@ -1,2 +1,7 @@
-# coursera_algorithms
-Data structures and algorithms course written in Python.
+# Course structure
+
+1. Algorithmic Toolbox.
+1. Data Structures.
+1. Algorithms on Graphs.
+1. Algorithms on Strings.
+1. Advanced algorithms and Complexity.
